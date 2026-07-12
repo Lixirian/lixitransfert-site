@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.2.0/LixiTransfert-1.2.0.zip",
-    "notes":  "Toutes les fenetres (mise a jour, confirmations, messages) sont desormais au design sombre de l application, avec de vrais boutons Installer maintenant / Plus tard / Ignorer cette version.",
-    "sha256":  "f8b13b1b14cb9e91adefb7e1d015f979dd6e24080ac8113fbba1bb438d9bf2cc"
+    "version":  "1.2.1",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.2.1/LixiTransfert-1.2.1.zip",
+    "notes":  "Icone d application au theme dans la barre des taches, Alt-Tab et la barre de titre.",
+    "sha256":  "608bf08fd189b0e9f99bfed2600fc213bdd985b7eca4490fe179da1eb5d54172"
 }
