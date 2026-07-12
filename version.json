@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.1",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.2.1/LixiTransfert-1.2.1.zip",
-    "notes":  "Icone d application au theme dans la barre des taches, Alt-Tab et la barre de titre.",
-    "sha256":  "608bf08fd189b0e9f99bfed2600fc213bdd985b7eca4490fe179da1eb5d54172"
+    "version":  "1.2.2",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.2.2/LixiTransfert-1.2.2.zip",
+    "notes":  "Correction : l icone LixiTransfert s affiche desormais dans la barre des taches (au lieu de l icone PowerShell).",
+    "sha256":  "5508d9f70a7dd135d481b3f316fe32782dcc1d390d6252f47ba145d86bae3a88"
 }
