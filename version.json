@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.4.0/LixiTransfert-1.4.0.zip",
-    "notes":  "Transfert des fichiers Outlook .pst (recherche sur tout le PC, rattachement Outlook automatique - AD et Intune). Cases a cocher au design de l app. Correction de l icone d epingle dans la barre des taches. Seuls Chrome, Firefox et .pst coches par defaut.",
-    "sha256":  "7941cdb51b0f45b476970540615b1bc8d8a9938f815ba6d24e369f3aedc7335a"
+    "version":  "1.4.1",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.4.1/LixiTransfert-1.4.1.zip",
+    "notes":  "Correction : erreur robocopy code 16 lors de l export d un navigateur non installe (ex. Favoris Firefox absent).",
+    "sha256":  "e5db26da7763b9eda0b6edcd0b9b4cf5b2de784e2c10d56d5c3bb74ee9026901"
 }
