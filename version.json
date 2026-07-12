@@ -1,0 +1,6 @@
+{
+    "version":  "1.0.0",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.0.0/LixiTransfert-1.0.0.zip",
+    "notes":  "Version initiale : gestion des profils utilisateurs Windows (liste, suppression propre, export/import entre PC), interface WPF sombre, mises a jour automatiques, compatible proxy SNCF.",
+    "sha256":  "279c950b1fe8f3ed24c42930648a05eef78307236c5084d92d76d36c81e2f82d"
+}
