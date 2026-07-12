@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.0",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.3.0/LixiTransfert-1.3.0.zip",
-    "notes":  "Raccourci menu Demarrer automatique (epinglage barre des taches avec la bonne icone) + bundle portable zip avec LISEZMOI pour installer sur un autre PC.",
-    "sha256":  "2b5042ed33ec53a659bcdbf10e549a868b810ed630cf5de5029ac9be8dcd945b"
+    "version":  "1.4.0",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.4.0/LixiTransfert-1.4.0.zip",
+    "notes":  "Transfert des fichiers Outlook .pst (recherche sur tout le PC, rattachement Outlook automatique - AD et Intune). Cases a cocher au design de l app. Correction de l icone d epingle dans la barre des taches. Seuls Chrome, Firefox et .pst coches par defaut.",
+    "sha256":  "7941cdb51b0f45b476970540615b1bc8d8a9938f815ba6d24e369f3aedc7335a"
 }
