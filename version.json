@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.1.1/LixiTransfert-1.1.1.zip",
-    "notes":  "Pastille de mise a jour cliquable dans la barre de titre (comme SNOW Widget) : plus de dialogue surprise, la MAJ s\u0027installe au clic sur la pastille.",
-    "sha256":  "56c7eb3b78ef9f9c8162916750bd2123d15a6e40b841c2d9830d233de7a7d105"
+    "version":  "1.2.0",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.2.0/LixiTransfert-1.2.0.zip",
+    "notes":  "Toutes les fenetres (mise a jour, confirmations, messages) sont desormais au design sombre de l application, avec de vrais boutons Installer maintenant / Plus tard / Ignorer cette version.",
+    "sha256":  "f8b13b1b14cb9e91adefb7e1d015f979dd6e24080ac8113fbba1bb438d9bf2cc"
 }
