@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.1",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.4.1/LixiTransfert-1.4.1.zip",
-    "notes":  "Correction : erreur robocopy code 16 lors de l export d un navigateur non installe (ex. Favoris Firefox absent).",
-    "sha256":  "e5db26da7763b9eda0b6edcd0b9b4cf5b2de784e2c10d56d5c3bb74ee9026901"
+    "version":  "1.4.2",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.4.2/LixiTransfert-1.4.2.zip",
+    "notes":  "Favoris Firefox : seul le dossier bookmarkbackups (sauvegardes des favoris) est transfere, sans l historique. Restauration via Firefox \u003e Bibliotheque \u003e Importation et sauvegarde \u003e Restaurer.",
+    "sha256":  "5b56ac58cfc7aa5f1fb8e6b0b825a53b7c6fd43f4cc899808a9cc6915315748f"
 }
