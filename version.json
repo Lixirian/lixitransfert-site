@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.0.1/LixiTransfert-1.0.1.zip",
-    "notes":  "Nouveau lanceur LixiTransfert.cmd : plus aucune fenetre console visible (demarrage, elevation UAC et mise a jour).",
-    "sha256":  "45cae991742374da14af21d3447f215aeb53cd79fa05ebfb7b0428a7090db6dc"
+    "version":  "1.1.0",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.1.0/LixiTransfert-1.1.0.zip",
+    "notes":  "Favoris Chrome, Edge et Firefox : export cible (Bookmarks / places.sqlite) et restauration automatique dans le profil Firefox par defaut du PC cible.",
+    "sha256":  "a7105ef57bcfcc5fda6f36b3a54f7d81a3904dd5116a814b7d67abda29f02bf3"
 }
