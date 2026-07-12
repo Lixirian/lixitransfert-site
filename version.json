@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.0",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.1.0/LixiTransfert-1.1.0.zip",
-    "notes":  "Favoris Chrome, Edge et Firefox : export cible (Bookmarks / places.sqlite) et restauration automatique dans le profil Firefox par defaut du PC cible.",
-    "sha256":  "a7105ef57bcfcc5fda6f36b3a54f7d81a3904dd5116a814b7d67abda29f02bf3"
+    "version":  "1.1.1",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.1.1/LixiTransfert-1.1.1.zip",
+    "notes":  "Pastille de mise a jour cliquable dans la barre de titre (comme SNOW Widget) : plus de dialogue surprise, la MAJ s\u0027installe au clic sur la pastille.",
+    "sha256":  "56c7eb3b78ef9f9c8162916750bd2123d15a6e40b841c2d9830d233de7a7d105"
 }
