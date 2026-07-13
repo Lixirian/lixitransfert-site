@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.3",
-    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.4.3/LixiTransfert-1.4.3.zip",
-    "notes":  "Favoris Firefox : restauration AUTOMATIQUE au prochain login de l utilisateur cible (quelle que soit la session ouverte). Plus besoin de restaurer a la main.",
-    "sha256":  "4457235c4a51b36520dd225f3d4cdf081d3c4afeab23bdee73347b1c90d7e2c5"
+    "version":  "1.5.0",
+    "downloadUrl":  "https://github.com/Lixirian/lixitransfert-site/releases/download/v1.5.0/LixiTransfert-1.5.0.zip",
+    "notes":  "Refonte de l\u0027interface : tout se fait dans une seule fenetre (profils, export, import, journal repliable), tailles des profils calculees automatiquement en arriere-plan, resume d\u0027export en temps reel.",
+    "sha256":  "55bd271218d87c513ad716222b3a38a80afe34bf945da30c9ff531062ddf84f6"
 }
